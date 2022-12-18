@@ -1,14 +1,17 @@
-# Tutorial taken from:
-https://docs.djangoproject.com/en/4.1/intro/tutorial01/
+------------- Hospital's Administration .......Last assignments idea with addition of new details.........
 
-#$ python manage.py runserver
-http://localhost:8000/polls/
 
-https://learndjango.com/tutorials/django-login-and-logout-tutorial
+In this assignment, As required there is an addition of login and signup. 
+So Now you can add as much as doctors or staff members in it and also in case if you want to delete you can do it.
+I have created as per the third document there is a sent_emails folder and you can find link to change your password.
+And this folder will be keep updates as changing done.
+By clicking on that link you can go to new window and then you can change password whatever you want.
+The idea behind this application is still same as the previous one (CA1) that I have showed you in the class but in 
+this application there are some additions like login and signup and also the members you would got sign up
+they can change their password at any time. I hope it will meet all requirements.
 
-https://learndjango.com/tutorials/django-signup-tutorial
-# add app accounts:
-# $ python manage.py startapp accounts
+...----///>>>  Thank you ...<<<///....
+.........
 
-https://learndjango.com/tutorials/django-password-reset-tutorial
+
 
